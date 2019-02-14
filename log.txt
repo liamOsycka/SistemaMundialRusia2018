@@ -1,0 +1,573 @@
+
+ Equipo agregado : Informacion Equipo 
+ Pais: RUSIA
+ DT: CHERCHESOV
+ Grupo: A
+ Puntos: 0
+ GolesFavor: 0
+ GolesEnContra: 0
+ Diferencia de goles: 0
+
+ Equipo agregado : Informacion Equipo 
+ Pais: ARABIAS
+ DT: PIZZI
+ Grupo: A
+ Puntos: 0
+ GolesFavor: 0
+ GolesEnContra: 0
+ Diferencia de goles: 0
+
+ Equipo agregado : Informacion Equipo 
+ Pais: EGIPTO
+ DT: CUPER
+ Grupo: A
+ Puntos: 0
+ GolesFavor: 0
+ GolesEnContra: 0
+ Diferencia de goles: 0
+
+ Equipo agregado : Informacion Equipo 
+ Pais: URUGUAY
+ DT: TABAREZ
+ Grupo: A
+ Puntos: 0
+ GolesFavor: 0
+ GolesEnContra: 0
+ Diferencia de goles: 0
+
+ Equipo agregado : Informacion Equipo 
+ Pais: PORTUGAL
+ DT: SANTOS
+ Grupo: B
+ Puntos: 0
+ GolesFavor: 0
+ GolesEnContra: 0
+ Diferencia de goles: 0
+
+ Equipo agregado : Informacion Equipo 
+ Pais: ESPANIA
+ DT: LOPETEGUI
+ Grupo: B
+ Puntos: 0
+ GolesFavor: 0
+ GolesEnContra: 0
+ Diferencia de goles: 0
+
+ Equipo agregado : Informacion Equipo 
+ Pais: MARRUECOS
+ DT: RENARD
+ Grupo: B
+ Puntos: 0
+ GolesFavor: 0
+ GolesEnContra: 0
+ Diferencia de goles: 0
+
+ Equipo agregado : Informacion Equipo 
+ Pais: IRAN
+ DT: QUEIROZ
+ Grupo: B
+ Puntos: 0
+ GolesFavor: 0
+ GolesEnContra: 0
+ Diferencia de goles: 0
+
+ Equipo agregado : Informacion Equipo 
+ Pais: FRANCIA
+ DT: DESCHAMPS
+ Grupo: C
+ Puntos: 0
+ GolesFavor: 0
+ GolesEnContra: 0
+ Diferencia de goles: 0
+
+ Equipo agregado : Informacion Equipo 
+ Pais: AUSTRALIA
+ DT: VANMARWIJK
+ Grupo: C
+ Puntos: 0
+ GolesFavor: 0
+ GolesEnContra: 0
+ Diferencia de goles: 0
+
+ Equipo agregado : Informacion Equipo 
+ Pais: PERU
+ DT: GARECA
+ Grupo: C
+ Puntos: 0
+ GolesFavor: 0
+ GolesEnContra: 0
+ Diferencia de goles: 0
+
+ Equipo agregado : Informacion Equipo 
+ Pais: DINAMARCA
+ DT: HAREIDE
+ Grupo: C
+ Puntos: 0
+ GolesFavor: 0
+ GolesEnContra: 0
+ Diferencia de goles: 0
+
+ Equipo agregado : Informacion Equipo 
+ Pais: ARGENTINA
+ DT: SAMPAOLI
+ Grupo: D
+ Puntos: 0
+ GolesFavor: 0
+ GolesEnContra: 0
+ Diferencia de goles: 0
+
+ Equipo agregado : Informacion Equipo 
+ Pais: ISLANDIA
+ DT: HALLGRIMSSON
+ Grupo: D
+ Puntos: 0
+ GolesFavor: 0
+ GolesEnContra: 0
+ Diferencia de goles: 0
+
+ Equipo agregado : Informacion Equipo 
+ Pais: CROACIA
+ DT: DALIC
+ Grupo: D
+ Puntos: 0
+ GolesFavor: 0
+ GolesEnContra: 0
+ Diferencia de goles: 0
+
+ Equipo agregado : Informacion Equipo 
+ Pais: NIGERIA
+ DT: ROHR
+ Grupo: D
+ Puntos: 0
+ GolesFavor: 0
+ GolesEnContra: 0
+ Diferencia de goles: 0
+
+ Equipo agregado : Informacion Equipo 
+ Pais: BRASIL
+ DT: TITE
+ Grupo: E
+ Puntos: 0
+ GolesFavor: 0
+ GolesEnContra: 0
+ Diferencia de goles: 0
+
+ Equipo agregado : Informacion Equipo 
+ Pais: SUIZA
+ DT: PETKOVIC
+ Grupo: E
+ Puntos: 0
+ GolesFavor: 0
+ GolesEnContra: 0
+ Diferencia de goles: 0
+
+ Equipo agregado : Informacion Equipo 
+ Pais: COSTARICA
+ DT: RAMIREZ
+ Grupo: E
+ Puntos: 0
+ GolesFavor: 0
+ GolesEnContra: 0
+ Diferencia de goles: 0
+
+ Equipo agregado : Informacion Equipo 
+ Pais: SERBIA
+ DT: KRSTAJIC
+ Grupo: E
+ Puntos: 0
+ GolesFavor: 0
+ GolesEnContra: 0
+ Diferencia de goles: 0
+
+ Equipo agregado : Informacion Equipo 
+ Pais: ALEMANIA
+ DT: LOEW
+ Grupo: F
+ Puntos: 0
+ GolesFavor: 0
+ GolesEnContra: 0
+ Diferencia de goles: 0
+
+ Equipo agregado : Informacion Equipo 
+ Pais: MEXICO
+ DT: OSORIO
+ Grupo: F
+ Puntos: 0
+ GolesFavor: 0
+ GolesEnContra: 0
+ Diferencia de goles: 0
+
+ Equipo agregado : Informacion Equipo 
+ Pais: COREASUR
+ DT: TAEYONG
+ Grupo: F
+ Puntos: 0
+ GolesFavor: 0
+ GolesEnContra: 0
+ Diferencia de goles: 0
+
+ Equipo agregado : Informacion Equipo 
+ Pais: SUECIA
+ DT: ANDERSSON
+ Grupo: F
+ Puntos: 0
+ GolesFavor: 0
+ GolesEnContra: 0
+ Diferencia de goles: 0
+
+ Equipo agregado : Informacion Equipo 
+ Pais: BELGICA
+ DT: MARTINEZ
+ Grupo: G
+ Puntos: 0
+ GolesFavor: 0
+ GolesEnContra: 0
+ Diferencia de goles: 0
+
+ Equipo agregado : Informacion Equipo 
+ Pais: PANAMA
+ DT: GOMEZ
+ Grupo: G
+ Puntos: 0
+ GolesFavor: 0
+ GolesEnContra: 0
+ Diferencia de goles: 0
+
+ Equipo agregado : Informacion Equipo 
+ Pais: TUNEZ
+ DT: MAALOUL
+ Grupo: G
+ Puntos: 0
+ GolesFavor: 0
+ GolesEnContra: 0
+ Diferencia de goles: 0
+
+ Equipo agregado : Informacion Equipo 
+ Pais: INGLATERRA
+ DT: SOUTHGATE
+ Grupo: G
+ Puntos: 0
+ GolesFavor: 0
+ GolesEnContra: 0
+ Diferencia de goles: 0
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: KALININGRADO
+ Superficie: 223.0
+ Cantidad Habitantes: 437456
+ Sede: true
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: MOSCU
+ Superficie: 2511.0
+ Cantidad Habitantes: 11920000
+ Sede: true
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: EKATERIMBURGO
+ Superficie: 490.0
+ Cantidad Habitantes: 1455904
+ Sede: true
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: KAZAN
+ Superficie: 409.0
+ Cantidad Habitantes: 1243500
+ Sede: true
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: NIZHNINOVGOROD
+ Superficie: 673.0
+ Cantidad Habitantes: 1264075
+ Sede: true
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: ROSTOV
+ Superficie: 354.0
+ Cantidad Habitantes: 1125299
+ Sede: true
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: SANPETERSBURGO
+ Superficie: 1439.0
+ Cantidad Habitantes: 5351935
+ Sede: true
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: SAMARA
+ Superficie: 466.0
+ Cantidad Habitantes: 1169719
+ Sede: true
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: UFA
+ Superficie: 2.0
+ Cantidad Habitantes: 2
+ Sede: false
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: CHELIABINSK
+ Superficie: 2.0
+ Cantidad Habitantes: 2
+ Sede: false
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: PERM
+ Superficie: 2.0
+ Cantidad Habitantes: 2
+ Sede: false
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: IZHEVSK
+ Superficie: 2.0
+ Cantidad Habitantes: 2
+ Sede: false
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: SURGUT
+ Superficie: 2.0
+ Cantidad Habitantes: 2
+ Sede: false
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: SARATOV
+ Superficie: 2.0
+ Cantidad Habitantes: 2
+ Sede: false
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: VOLGOGRADO
+ Superficie: 2.0
+ Cantidad Habitantes: 2
+ Sede: true
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: VORONEZH
+ Superficie: 2.0
+ Cantidad Habitantes: 2
+ Sede: false
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: TIUMEN
+ Superficie: 2.0
+ Cantidad Habitantes: 2
+ Sede: false
+
+Partido agregado: 
+ ARGENTINA : 1 VS  ISLANDIA : 3
+ Ciudad: MOSCU
+ Fase: GRUPO
+
+Partido agregado: 
+ BRASIL : 1 VS  ALEMANIA : 7
+ Ciudad: KALININGRADO
+ Fase: FINAL
+
+Partido agregado: 
+ BRASIL : 2 VS  ARGENTINA : 3
+ Ciudad: KALININGRADO
+ Fase: GRUPO
+
+Partido agregado: 
+ PORTUGAL : 1 VS  ARGENTINA : 2
+ Ciudad: KALININGRADO
+ Fase: CUARTOS
+
+Se ha eliminado la ciudad : MOSCU
+Fin Ejecucion Sistema...Estructuras:Equipos:Padre: IRAN ALTURA 5
+Hijo izquierdo: CROACIA Hijo derecho: PORTUGAL 
+Padre: CROACIA ALTURA 4
+Hijo izquierdo: AUSTRALIA Hijo derecho: EGIPTO 
+Padre: AUSTRALIA ALTURA 3
+Hijo izquierdo: ARABIAS Hijo derecho: COREASUR 
+Padre: ARABIAS ALTURA 1
+Hijo izquierdo: ALEMANIA Hijo derecho: ARGENTINA 
+Padre: ALEMANIA ALTURA 0
+Hijo izquierdo: No tiene  Hijo derecho: No tiene 
+Padre: ARGENTINA ALTURA 0
+Hijo izquierdo: No tiene  Hijo derecho: No tiene 
+Padre: COREASUR ALTURA 2
+Hijo izquierdo: BRASIL Hijo derecho: COSTARICA 
+Padre: BRASIL ALTURA 1
+Hijo izquierdo: BELGICA  Hijo derecho: No tiene 
+Padre: BELGICA ALTURA 0
+Hijo izquierdo: No tiene  Hijo derecho: No tiene 
+Padre: COSTARICA ALTURA 0
+Hijo izquierdo: No tiene  Hijo derecho: No tiene 
+Padre: EGIPTO ALTURA 2
+Hijo izquierdo: DINAMARCA Hijo derecho: FRANCIA 
+Padre: DINAMARCA ALTURA 0
+Hijo izquierdo: No tiene  Hijo derecho: No tiene 
+Padre: FRANCIA ALTURA 1
+Hijo izquierdo: ESPANIA Hijo derecho: INGLATERRA 
+Padre: ESPANIA ALTURA 0
+Hijo izquierdo: No tiene  Hijo derecho: No tiene 
+Padre: INGLATERRA ALTURA 0
+Hijo izquierdo: No tiene  Hijo derecho: No tiene 
+Padre: PORTUGAL ALTURA 3
+Hijo izquierdo: NIGERIA Hijo derecho: SUIZA 
+Padre: NIGERIA ALTURA 2
+Hijo izquierdo: MARRUECOS Hijo derecho: PERU 
+Padre: MARRUECOS ALTURA 1
+Hijo izquierdo: ISLANDIA Hijo derecho: MEXICO 
+Padre: ISLANDIA ALTURA 0
+Hijo izquierdo: No tiene  Hijo derecho: No tiene 
+Padre: MEXICO ALTURA 0
+Hijo izquierdo: No tiene  Hijo derecho: No tiene 
+Padre: PERU ALTURA 1
+Hijo izquierdo: PANAMA  Hijo derecho: No tiene 
+Padre: PANAMA ALTURA 0
+Hijo izquierdo: No tiene  Hijo derecho: No tiene 
+Padre: SUIZA ALTURA 2
+Hijo izquierdo: SERBIA Hijo derecho: URUGUAY 
+Padre: SERBIA ALTURA 1
+Hijo izquierdo: RUSIA Hijo derecho: SUECIA 
+Padre: RUSIA ALTURA 0
+Hijo izquierdo: No tiene  Hijo derecho: No tiene 
+Padre: SUECIA ALTURA 0
+Hijo izquierdo: No tiene  Hijo derecho: No tiene 
+Padre: URUGUAY ALTURA 1
+Hijo izquierdo: TUNEZ  Hijo derecho: No tiene 
+Padre: TUNEZ ALTURA 0
+Hijo izquierdo: No tiene  Hijo derecho: No tiene 
+Ciudades:
+Vertice: TIUMEN
+Arcos: 
+etiqueta: 333.0 ------> EKATERIMBURGO
+etiqueta: 788.0 ------> SURGUT
+
+Vertice: VORONEZH
+Arcos: 
+etiqueta: 505.0 ------> SARATOV
+etiqueta: 575.0 ------> VOLGOGRADO
+etiqueta: 564.0 ------> ROSTOV
+
+Vertice: VOLGOGRADO
+Arcos: 
+etiqueta: 380.0 ------> SARATOV
+etiqueta: 575.0 ------> VORONEZH
+etiqueta: 474.0 ------> ROSTOV
+
+Vertice: SARATOV
+Arcos: 
+etiqueta: 380.0 ------> VOLGOGRADO
+etiqueta: 436.0 ------> SAMARA
+etiqueta: 505.0 ------> VORONEZH
+
+Vertice: SURGUT
+Arcos: 
+etiqueta: 788.0 ------> TIUMEN
+etiqueta: 1100.0 ------> EKATERIMBURGO
+
+Vertice: IZHEVSK
+Arcos: 
+etiqueta: 280.0 ------> PERM
+etiqueta: 390.0 ------> KAZAN
+
+Vertice: PERM
+Arcos: 
+etiqueta: 362.0 ------> EKATERIMBURGO
+etiqueta: 280.0 ------> IZHEVSK
+etiqueta: 671.0 ------> KAZAN
+
+Vertice: CHELIABINSK
+Arcos: 
+etiqueta: 213.0 ------> EKATERIMBURGO
+etiqueta: 422.0 ------> UFA
+
+Vertice: UFA
+Arcos: 
+etiqueta: 422.0 ------> CHELIABINSK
+etiqueta: 460.0 ------> SAMARA
+etiqueta: 935.0 ------> NIZHNINOVGOROD
+
+Vertice: SAMARA
+Arcos: 
+etiqueta: 436.0 ------> SARATOV
+etiqueta: 460.0 ------> UFA
+
+Vertice: SANPETERSBURGO
+Arcos: 
+etiqueta: 965.0 ------> KALININGRADO
+etiqueta: 1210.0 ------> NIZHNINOVGOROD
+
+Vertice: ROSTOV
+Arcos: 
+etiqueta: 474.0 ------> VOLGOGRADO
+etiqueta: 564.0 ------> VORONEZH
+
+Vertice: NIZHNINOVGOROD
+Arcos: 
+etiqueta: 935.0 ------> UFA
+etiqueta: 400.0 ------> KAZAN
+etiqueta: 1210.0 ------> SANPETERSBURGO
+
+Vertice: KAZAN
+Arcos: 
+etiqueta: 671.0 ------> PERM
+etiqueta: 390.0 ------> IZHEVSK
+etiqueta: 400.0 ------> NIZHNINOVGOROD
+
+Vertice: EKATERIMBURGO
+Arcos: 
+etiqueta: 213.0 ------> CHELIABINSK
+etiqueta: 333.0 ------> TIUMEN
+etiqueta: 1100.0 ------> SURGUT
+etiqueta: 362.0 ------> PERM
+
+Vertice: KALININGRADO
+Arcos: 
+etiqueta: 965.0 ------> SANPETERSBURGO
+Partidos:
+Clave: [eq1: ARGENTINA, eq2: ISLANDIA].
+ Partido: 
+ ARGENTINA : 1 VS  ISLANDIA : 3
+ Ciudad: MOSCU
+ Fase: GRUPO
+
+Clave: [eq1: ARGENTINA, eq2: PORTUGAL].
+ Partido: 
+ PORTUGAL : 1 VS  ARGENTINA : 2
+ Ciudad: KALININGRADO
+ Fase: CUARTOS
+
+Clave: [eq1: ALEMANIA, eq2: BRASIL].
+ Partido: 
+ BRASIL : 1 VS  ALEMANIA : 7
+ Ciudad: KALININGRADO
+ Fase: FINAL
+
+Clave: [eq1: ARGENTINA, eq2: BRASIL].
+ Partido: 
+ BRASIL : 2 VS  ARGENTINA : 3
+ Ciudad: KALININGRADO
+ Fase: GRUPO
+Tabla Posiciones:1 ) ARGENTINA Puntos: 6 DifGol: 0
+2 ) ALEMANIA Puntos: 3 DifGol: 6
+3 ) ISLANDIA Puntos: 3 DifGol: 2
+4 ) URUGUAY Puntos: 0 DifGol: 0
+5 ) TUNEZ Puntos: 0 DifGol: 0
+6 ) SUIZA Puntos: 0 DifGol: 0
+7 ) SUECIA Puntos: 0 DifGol: 0
+8 ) SERBIA Puntos: 0 DifGol: 0
+9 ) RUSIA Puntos: 0 DifGol: 0
+10 ) PERU Puntos: 0 DifGol: 0
+11 ) PANAMA Puntos: 0 DifGol: 0
+12 ) NIGERIA Puntos: 0 DifGol: 0
+13 ) MEXICO Puntos: 0 DifGol: 0
+14 ) MARRUECOS Puntos: 0 DifGol: 0
+15 ) IRAN Puntos: 0 DifGol: 0
+16 ) INGLATERRA Puntos: 0 DifGol: 0
+17 ) FRANCIA Puntos: 0 DifGol: 0
+18 ) ESPANIA Puntos: 0 DifGol: 0
+19 ) EGIPTO Puntos: 0 DifGol: 0
+20 ) DINAMARCA Puntos: 0 DifGol: 0
+21 ) CROACIA Puntos: 0 DifGol: 0
+22 ) COSTARICA Puntos: 0 DifGol: 0
+23 ) COREASUR Puntos: 0 DifGol: 0
+24 ) BELGICA Puntos: 0 DifGol: 0
+25 ) AUSTRALIA Puntos: 0 DifGol: 0
+26 ) ARABIAS Puntos: 0 DifGol: 0
+27 ) PORTUGAL Puntos: 0 DifGol: -1
+28 ) BRASIL Puntos: 0 DifGol: -7
+
