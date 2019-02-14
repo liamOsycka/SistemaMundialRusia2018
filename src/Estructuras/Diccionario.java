@@ -8,6 +8,7 @@ public class Diccionario {
 	}
 
 	public boolean insertar(Comparable clave, Object dato) {
+		System.out.println("hola probando cambio");
 		boolean exito = true;
 		if (this.raiz == null) {
 			this.raiz = new NodoAVLDicc(clave, dato);
