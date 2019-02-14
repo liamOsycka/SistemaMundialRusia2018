@@ -120,7 +120,7 @@ public class GrafoEtiq<T> {
 				exito = true;
 				insertarArcoAux(nodoOrigen, nodoDestino, etiqueta);
 				insertarArcoAux(nodoDestino, nodoOrigen, etiqueta);
-			}else {
+			} else {
 				System.out.println("El arco ya existe");
 			}
 		}
@@ -439,43 +439,4 @@ public class GrafoEtiq<T> {
 		}
 		return cad;
 	}
-
-	// modulos final
-	public Lista caminoLongitudMenor(Object origen, Object destino, int max) {
-		NodoVert aux0 = ubicarVertice(origen);
-		NodoVert aux1 = ubicarVertice(destino);
-		Lista visitados = new Lista();
-		Lista camino = new Lista();
-		Lista caminoFinal = new Lista();
-		if (aux0 != null && aux1 != null) {
-			caminoLongitudMenorAux(aux0, destino, max, visitados, camino);
-		}
-		return visitados;
-	}
-
-	private void caminoLongitudMenorAux(NodoVert n, Object destino, int max, Lista visitados, Lista camino) {
-		if (n != null) {
-			visitados.insertar(n.getElem(), visitados.longitud() + 1);
-
-			if (n.getElem().equals(destino)) {
-				if (visitados.longitud() > max) {
-					visitados.eliminar(visitados.longitud());
-
-				}
-			} else {
-				NodoAdy arco = n.getPrimerAdy();
-				while (arco != null && visitados.localizar(destino) < 0) {
-					if (visitados.localizar(arco.getVertice().getElem()) < 0) {
-						caminoLongitudMenorAux(arco.getVertice(), destino, max, visitados, camino);
-					}
-					arco = arco.getSigAdyacente();
-				}
-				if (visitados.localizar(destino) < 0) {
-					visitados.eliminar(visitados.longitud());
-				}
-			}
-
-		}
-	}
-
 }
