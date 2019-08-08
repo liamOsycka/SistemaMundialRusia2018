@@ -51,10 +51,10 @@ public class Diccionario {
 				this.raiz = null;
 			} else {
 				if (this.raiz.getDer() != null && this.raiz.getIzq() == null) {
-					this.raiz = this.raiz.getIzq();
+					this.raiz = this.raiz.getDer();
 				} else {
 					if (this.raiz.getIzq() != null && this.raiz.getDer() == null) {
-						this.raiz = this.raiz.getDer();
+						this.raiz = this.raiz.getIzq();
 					} else {
 						System.out.println("Eliminar caso 3");
 						eliminarCasoTres(this.raiz);
